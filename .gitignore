@@ -1,4 +1,5 @@
 *.py[co]
+bower_components
 
 # Installer logs
 pip-log.txt
@@ -6,8 +7,7 @@ pip-log.txt
 # OSX
 .DS_Store
 
-/client/bower_components/
-
-server/app.sqlite
-server/app/config.py
-server/venv
+# Dirs
+/flask-blog/server/app.sqlite
+/flask-blog/server/app/config.py
+/flask-blog/server/venv
