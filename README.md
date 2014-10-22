@@ -9,7 +9,7 @@ No time like the present to learn Python. The purpose of this repo is to store g
 | Project         | Author          | Link                       |
 | --------------- | --------------- | -------------------------- |
 | flask-blog      | John Basco      | [Blog](http://blog.john.mayonvolcanosoftware.com/building-a-blog-using-flask-and-angularjs-part-1/) |
-
+| fizzbuzz        | self            | na                         |
 
 ## license
 
